@@ -48,7 +48,7 @@ Changes in transportation cost
 
 ----------------
 
-![](C:\Users\Michel\Pictures\graph_tcost.png)
+![](images/graph_tcost.png)
 
 Increase in trasnportation cost
 ----------
